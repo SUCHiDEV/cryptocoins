@@ -1309,78 +1309,74 @@
   content: "\E138";
 }
 
-.cc.XRB::before {
+.cc.XRP-alt::before {
   content: "\E139";
 }
 
-.cc.XRP-alt::before {
+.cc.XRP::before {
   content: "\E13A";
 }
 
-.cc.XRP::before {
+.cc.XTZ-alt::before {
   content: "\E13B";
 }
 
-.cc.XTZ-alt::before {
+.cc.XTZ::before {
   content: "\E13C";
 }
 
-.cc.XTZ::before {
+.cc.XVC-alt::before {
   content: "\E13D";
 }
 
-.cc.XVC-alt::before {
+.cc.XVC::before {
   content: "\E13E";
 }
 
-.cc.XVC::before {
+.cc.XVG-alt::before {
   content: "\E13F";
 }
 
-.cc.XVG-alt::before {
+.cc.XVG::before {
   content: "\E140";
 }
 
-.cc.XVG::before {
+.cc.XZC-alt::before {
   content: "\E141";
 }
 
-.cc.XZC-alt::before {
+.cc.XZC::before {
   content: "\E142";
 }
 
-.cc.XZC::before {
+.cc.YBC-alt::before {
   content: "\E143";
 }
 
-.cc.YBC-alt::before {
+.cc.YBC::before {
   content: "\E144";
 }
 
-.cc.YBC::before {
+.cc.ZEC-alt::before {
   content: "\E145";
 }
 
-.cc.ZEC-alt::before {
+.cc.ZEC::before {
   content: "\E146";
 }
 
-.cc.ZEC::before {
+.cc.ZEIT-alt::before {
   content: "\E147";
 }
 
-.cc.ZEIT-alt::before {
+.cc.ZEIT::before {
   content: "\E148";
 }
 
-.cc.ZEIT::before {
+.cc.ZRX-alt::before {
   content: "\E149";
 }
 
-.cc.ZRX-alt::before {
-  content: "\E14A";
-}
-
 .cc.ZRX::before {
-  content: "\E14B";
+  content: "\E14A";
 }
