@@ -1,6 +1,6 @@
 {
   "name": "cryptocoins-font",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies",
   "keywords": [
     "cryptocurrency",
@@ -21,15 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allienworks/cryptocoins.git"
+    "url": "git+https://github.com/SUCHiDEV/cryptocoins.git"
   },
   "bugs": {
-    "url": "http://github.com/allienworks/cryptocoins/issues"
-  },
-  "author": {
-    "name": "Martin Allien",
-    "web": "https://allien.work"
+    "url": "https://github.com/SUCHiDEV/cryptocoins/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/allienworks/cryptocoins"
+  "homepage": "https://github.com/SUCHiDEV/cryptocoins"
 }
